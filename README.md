@@ -1,4 +1,4 @@
-<h1 align="left">Opaa, me chamo Gustavo e sou um apreciador da programação e tecnologia👋?</h1>
+<h1 align="left">Opaa, me chamo Gustavo e sou um apreciador da programação e tecnologia👋</h1>
 
 ###
 
