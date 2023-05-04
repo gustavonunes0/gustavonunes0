@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Atualmente estou cursando Ciências da Computação e trabalho como Estagiário de Desenvolvimento Web</p>
+<p align="left">✨ Atualmente estou cursando Ciências da Computação e trabalho como Desenvolvedor FullStack</p>
 
 ###
 
