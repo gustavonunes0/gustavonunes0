@@ -1,4 +1,4 @@
-<h1 align="left">Opaa, me chamo Gustavo e sou um dev em ascensão👋💪🏻</h1>
+<h1 align="left">Opaa, me chamo Gustavo e sou um Dev FullStack👋💪🏻</h1>
 
 ###
 
