@@ -1,8 +1,8 @@
-<h1 align="left">Opaa, me chamo Gustavo e sou um apreciador da programação e tecnologia👋</h1>
+<h1 align="left">Opaa, me chamo Gustavo e sou um dev em ascensão👋💪🏻</h1>
 
 ###
 
-<p align="left">✨ Atualmente estou cursando Ciências da Computação e trabalho como Desenvolvedor FullStack</p>
+<p align="left">🎓 Atualmente estou cursando Ciências da Computação e trabalho como Desenvolvedor FullStack</p>
 
 ###
 
