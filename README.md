@@ -10,7 +10,8 @@
 <a href="https://github.com/gustavonunes0">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavonunes0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonunes0&layout=compact&langs_count=7&theme=dark"/>
-  
+
+<br/>
 <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=gustavonunes0&row=1&column=6&theme=flat&margin-w=15&margin-h=15"/>
 </div>
